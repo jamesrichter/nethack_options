@@ -6,4 +6,4 @@ OPTIONS=autopickup,pickup_types:$"=/!?+
 
 OPTIONS=hilite_pet
 
-OPTIONS=numpad:1
+OPTIONS=number_pad:1
